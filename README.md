@@ -1,3 +1,4 @@
+![Drag Racing](meOS.jpg)
 # Welcome to meOS!
 ## New spin of Linux Mint with fresh theme and gnome desktop
 
