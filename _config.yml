@@ -4,3 +4,5 @@ plugins:
 minima:
 skin: dark
 font: MiSans Latin VF.ttf
+header_pages:
+download.md
