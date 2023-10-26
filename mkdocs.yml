@@ -1,2 +1,7 @@
 markdown_extensions:
-  - pymdownx.critic
+  - pymdownx.critic:
+      mode: view
+  - pymdownx.caret:
+  - pymdownx.keys:
+  - pymdownx.mark:
+  - pymdownx.tilde:
