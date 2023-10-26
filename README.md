@@ -1,8 +1,8 @@
-# Welcome to project felda
-## It's my spin of Linux Mint. Project isn't dead! Right now i am preparing august release. It will be ofc feldalinux.
+# Welcome to meOS!
+## New spin of Linux Mint with fresh theme and gnome desktop
 
-# New version released check releases tab. 
-Known Bugs:
+#Previous releases are in releases tab. 
+Known Bugs of last version:
 
     Grub color error.
     Installer taken from Mint ad it is not starting after startup of live cd.
