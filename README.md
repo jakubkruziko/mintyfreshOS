@@ -2,7 +2,9 @@
 # Welcome to meOS!
 ## New spin of Linux Mint with fresh theme and gnome desktop
 
-#Previous releases are in releases tab. 
+I am still Working on this website. If you know what to add here please inform me in any way!
+
+# Previous releases are in releases tab. 
 Known Bugs of last version:
 
     Grub color error.
