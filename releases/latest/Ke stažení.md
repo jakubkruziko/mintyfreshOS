@@ -12,6 +12,3 @@
 - You tell me.
 **Download:**
 [.iso (Mega.nz)](https://mega.nz/file/UkgklYYL#yVleS3JeeBgoXEQcGBriqDMGa0F-o1uy4hxbahvrln0)
-
-
-https://github.com/jakubkruziko/meOS/releases/tag/feldalinux-insider
