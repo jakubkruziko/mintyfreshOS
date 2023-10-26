@@ -1,6 +1,6 @@
 # Nejnovější obrazy systému ke stažení
-##jakubuntu 22.12 felda
- - **Welcome to first version of jakubuntu!**
+## jakubuntu 22.12 felda !!NEDOPORUČUJEME JEHO POUŽÍVÁNÍ NA VAŠICH HLAVNÍCH ZAŘÍZENÍCH!!
+- **Welcome to first version of jakubuntu!**
 - this version is only for testing purposes.
 - ### **Installer is located in Activities menu and default wallpaper is still Linux Mint one!**
 - I would like your help finding bugs and other problems.
