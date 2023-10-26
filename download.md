@@ -12,5 +12,6 @@ I would like your help finding bugs and other problems.
 - Installer taken from Mint ad it is not starting after startup of live cd.
 - Branding still has not changed.
 - You tell me.
+
 **Download:**
 [.iso (Mega.nz)](https://mega.nz/file/UkgklYYL#yVleS3JeeBgoXEQcGBriqDMGa0F-o1uy4hxbahvrln0)
