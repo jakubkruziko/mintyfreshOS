@@ -1,9 +1,4 @@
 remote_theme: jekyll/minima
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-minima:
-skin: dark
-font: MiSans Latin VF.ttf
-header_pages:
- - download.md
- - about.md
+
