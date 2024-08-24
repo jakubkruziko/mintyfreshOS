@@ -1,4 +1,3 @@
-<pre>
 ![meOS logo](image.png)
 #### Welcome to mintyfreshOS!
 ## New spin of Linux Mint with fresh theme and gnome desktop
@@ -8,7 +7,7 @@
 I am still Working on this website. If you know what to add here please inform me in any way!
 [Downloads](https://jakubkruziko.github.io/meOS/download/download.html)
 
-    </pre>
+
 # Previous releases are in the releases tab. 
     Known Bugs of the last version:
 
