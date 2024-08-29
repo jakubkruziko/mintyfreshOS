@@ -1,4 +1,4 @@
-![meOS downloads](downloads.png)
+![mintyfreshOS downloads](dwnld.png)
 # Latest installation images for download
 
 ## **jakubuntu 22.12 felda** 
