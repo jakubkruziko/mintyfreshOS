@@ -1,5 +1,4 @@
-![meOS logo](image.png)
-<span style="font-family: 'MiSans Latin VF';">
+![mintyfreshOS logo](image.png)
 
 # **As of 24. August 2024 project is called mintyfreshOS. Expected alpha updates based on the original feldalinux 22.10 version will release soon**
 
@@ -11,7 +10,6 @@ I am still Working on this website. If you know what to add here please inform m
 
 
 # Previous releases are in the releases tab. 
-</span>
     Known Bugs of the last version:
 
     Grub color error.
