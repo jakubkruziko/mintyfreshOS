@@ -1,5 +1,5 @@
-<span style="font-family: 'MiSans latin ttf';">
 ![meOS logo](image.png)
+<span style="font-family: 'MiSans latin ttf';">
 
 # **As of 24. August 2024 project is called mintyfreshOS. Expected alpha updates based on the original feldalinux 22.10 version will release soon**
 
