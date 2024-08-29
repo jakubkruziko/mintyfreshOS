@@ -11,10 +11,11 @@ I am still Working on this website. If you know what to add here please inform m
 
 
 # Previous releases are in the releases tab. 
+</span>
     Known Bugs of the last version:
 
     Grub color error.
     Installer taken from Mint ad it is not starting after startup of the live cd.
     Branding still has not changed.
     You tell me.
-</span>
+
